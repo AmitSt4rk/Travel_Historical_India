@@ -365,7 +365,7 @@ footer{
 }
 
 .foot-panel1{
-    background: linear-gradient(to top, black, rgba(121, 71, 39, 0.877));
+    background: linear-gradient(to top, black, rgba(58, 41, 31, 0.877));
     color: white;
     display: flex;
     justify-content: center;
